@@ -1,5 +1,5 @@
 #profile-title: 📶LTE | StoLen VPN
-#announce: StoLen VPN — приватный доступ. Серверы: Европа, Россия, Канада. Протокол: VLESS + Reality. Для своих.
+#announce: StoLen VPN — бесплатный доступ. Серверы: Европа, Россия, Канада. Протокол: VLESS + Reality.
 #profile-update-interval: 1
 
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@84.201.132.110:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=428ef87fd47a3a32#%F0%9F%93%B6LTE%20%7C%20StoLen%20VPN%20%7C%20%F0%9F%87%AA%F0%9F%87%AA
