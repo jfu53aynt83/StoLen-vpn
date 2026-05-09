@@ -1,5 +1,5 @@
 #profile-title: NetaQ • FREE
-#announce: NetaQ VPN — бесплатный доступ в интернет. Лучшие серверы: 
+#announce: NetaQ VPN — бесплатный доступ в интернет. 
 #profile-update-interval: 1
 
 vless://8b1af25a-e873-4915-bc56-3ad741e82f09@130.49.189.40:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=telegavpn.com#WiFi%20|%20NetaQ%20VPN%20|%20🇷🇺%201
